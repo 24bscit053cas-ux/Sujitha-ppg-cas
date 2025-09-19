@@ -10,3 +10,4 @@ function highlightSkill(element) {
     element.style.fontWeight = "bold";
 
 }
+
